@@ -1,6 +1,6 @@
-import logo from './logo.svg';
-import './styles.css';
 import SocialNetwork from './SocialNetwork';
+import './styles.css';
+
 
 function App() {
   return (
